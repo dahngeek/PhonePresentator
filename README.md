@@ -10,7 +10,10 @@ Usage
 =======
 1. Connect your phone and the computer you're using to present to a local network (WiFi)
 1. ~~Download and install dependencieas~~ (but they're included in the repository so its not necessary)
-2. Run: ``` node index ``` 
-3. Go to your local IP and access the _port 3000_
+2. Run: ``` node index ``` on the repository directory.
+3. On your phone: Go to your local IP and access the _port 3000_
 4. Open your Power Point presentation and run it.
 5. Use the buttons on the smartphone to go to the next or previous slides.
+
+
+Any questions don't dubt to ask me on <a href="http://twitter.com/dahngeek">Twitter (@dahngeek)</a> or to my mail '''me [AT] dahngeek [] com'''
