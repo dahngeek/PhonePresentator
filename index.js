@@ -2,6 +2,7 @@
 // Use your smartphone to change your slides :)
 // Mady by dahngeek
 // URL: dahngeek.com
+// :D
 
 var express = require('express');
 var app = express();
