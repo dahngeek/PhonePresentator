@@ -1,0 +1,14 @@
+{
+  "name": "PhonePresentator",
+  "version": "0.0.1",
+  "description": "Control your computer presentation via web",
+  "dependencies": {
+    "express": "^4.10.5",
+    "node_keyboard": "0.0.4",
+    "socket.io": "^1.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dahngeek/PhonePresentator.git"
+  }
+}

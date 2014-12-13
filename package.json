@@ -1,0 +1,28 @@
+{
+  "name": "PhonePresentator",
+  "version": "0.0.1",
+  "description": "Control your computer presentations directly from your phone's browser",
+  "main": "index.js",
+  "dependencies": {
+    "node_keyboard": "^0.0.4",
+    "express": "^4.10.5",
+    "socket.io": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dahngeek/PhonePresentator.git"
+  },
+  "keywords": [
+    "presentator",
+    "phone",
+    "node",
+    "keyboard",
+    "browser"
+  ],
+  "author": "dahngeek",
+  "license": "ISC"
+}
